@@ -1,3 +1,6 @@
+
+<!--
+
 ---
 permalink: /
 title: "Yutong Li Homepage"
@@ -7,6 +10,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+-->
 
 Yutong Li
 ======
