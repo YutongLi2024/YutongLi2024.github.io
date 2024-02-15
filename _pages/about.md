@@ -1,5 +1,5 @@
 
-<!--
+
 
 ---
 permalink: /
@@ -11,7 +11,7 @@ redirect_from:
   - /about.html
 ---
 
--->
+
 
 Yutong Li
 ======
