@@ -1,6 +1,3 @@
-
-
-
 ---
 permalink: /
 title: "Yutong Li Homepage"
